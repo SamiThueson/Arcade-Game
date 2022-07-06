@@ -6,9 +6,7 @@ For this project I had decided to make a game using python and the arcade librar
 
 Writing this software has helped me better understand object-oriented programming and how to use it. As well as the many different tools in the arcade library.
 
-{Provide a link to your YouTube demonstration. It should be a 4-5 minute demo of the game being played and a walkthrough of the code.}
-
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/ozSZE9mlRI0)
 
 # Development Environment
 
@@ -25,6 +23,7 @@ I chose to use python and the arcade library as the framework to develope the ga
 
 # Future Work
 
+- Seperate the classes into different files, re-organize the game
 - Make levels of difficultly
 - Add sound effects and background music
 - Add a menu screen
